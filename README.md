@@ -1,3 +1,3 @@
-# jQuery-practice2
-portfolio template
+# portfolio template
+JQuery practice 
 html - css -JS -jQuery
